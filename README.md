@@ -1,2 +1,2 @@
-# Video Classification using SlowFast in Tensorflow 2
+# Video Classification using SlowFast
 More description and checkpoints coming soon...
